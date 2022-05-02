@@ -6,7 +6,7 @@ window = Tk()
 window.geometry('320x360')
 window.title('Calculator')
 window.resizable(False, False)
-window.iconbitmap('image/calculator/cal_ico.ico')
+window.iconbitmap('image/calculator/calcul_ico.ico')
 
 # Function in classes
 base = BaseOperations()
